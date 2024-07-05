@@ -7,7 +7,7 @@ export default function Home() {
         <Image
           className="relative"
           src="/lc-logo.svg"
-          alt="Next.js Logo"
+          alt="Lequios Creative"
           width={400}
           height={28}
           priority
